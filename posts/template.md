@@ -2,7 +2,7 @@
 ---
 layout: default
 title: Study Records
-description: 
+description: math, biology, programming language, etc.
 permalink: /posts/template/
 ---
 
