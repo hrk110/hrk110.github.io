@@ -12,4 +12,10 @@ permalink: /posts/template/
 
 ## section 2
 
-contents
+contents below.
+
+inline math expression: $x=\pm 1$
+
+block math expression:
+
+$$ \int_{0}^{\infty} \dfrac{\sin x}{x} dx = \dfrac{\pi}{2}$$
