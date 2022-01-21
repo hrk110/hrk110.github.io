@@ -1,10 +1,10 @@
-<!-- template.md -->
 ---
 layout: default
 title: Study Records
 description: math, biology, programming language, etc.
 permalink: /posts/template/
 ---
+<!-- template.md -->
 
 # title
 
