@@ -18,12 +18,12 @@ header{
   /* flex */
   display: flex;
   flex-direction: row;
-  justify-content: space-between; /* title to left, menu to right*/
-  align-items: center; /* centering vertically*/
-}
 
-.head_item{
-  color: black;
+  /* title to left, menu to right*/
+  justify-content: space-between;
+
+  /* centering vertically*/
+  align-items: center;
 }
 
 header h1{
@@ -31,20 +31,23 @@ header h1{
 }
 
 nav ul{
+  width: 300px;
   list-style-type: none;
+  padding-left: 0px; /* ??? */
+
   display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
 
 nav li{
-  display: inline-block;
-  width: 100px;
+  width: 50px;
   text-align: center;
-  /* border-left: 1px dotted black; */
 }
 
 main{
   padding-top: var(--header-height);
-  border: 1px black;
+  /* border: 1px black; */
 }
 
 .top_picture{
