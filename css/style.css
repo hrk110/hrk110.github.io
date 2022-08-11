@@ -1,0 +1,93 @@
+@charset "utf-8";
+
+html{
+  font-size: 100%;
+}
+
+/* variables */
+:root{
+  --header-height: 50px;
+}
+
+header{
+  position: fixed; /* always show header */
+  background-color: white;
+  width: 100%;
+  height: var(--header-height);
+  padding: 10px;
+  /* flex */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; /* title to left, menu to right*/
+  align-items: center; /* centering vertically*/
+}
+
+.head_item{
+  color: black;
+}
+
+header h1{
+  font-size: 30px;
+}
+
+nav ul{
+  list-style-type: none;
+  display: flex;
+}
+
+nav li{
+  display: inline-block;
+  width: 100px;
+  text-align: center;
+  /* border-left: 1px dotted black; */
+}
+
+main{
+  padding-top: var(--header-height);
+  border: 1px black;
+}
+
+.top_picture{
+  margin-bottom: 40px;
+}
+
+.top_picture img{
+  width: 100%;
+  max-width: 1920px;
+  height: 600px;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 600px) {
+  header{
+    --header-height: 100px;
+    flex-direction: column;
+  }
+
+  /* extend image size to the height of smartphon screen */
+  .top_picture img{
+    height: calc(100vh - var(--header-height));
+  }
+}
+
+section{
+  padding: 0 2%;
+}
+
+section h2{
+  text-align: center;
+}
+
+section p{
+  text-align: center;
+}
+.section_list{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+footer{
+  font-size: 0.8rem;
+  text-align: center;
+}
