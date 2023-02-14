@@ -1,1 +1,8 @@
+_site
+.sass-cache
+.jekyll-metadata
+
+# my own files
 .DS_Store
+.my_private_notes.md
+vendor
