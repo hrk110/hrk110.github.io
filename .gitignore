@@ -4,6 +4,5 @@ _site
 
 # my own files
 .DS_Store
-.my_private_notes.md
 *.code-workspace
 vendor
