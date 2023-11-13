@@ -3,16 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: ""
+list_title: "Recent posts" # see "home.html" for detail
 ---
 
-hrkito's page
+
 
 <!-- ## Recent Posts
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul> -->
+ -->
