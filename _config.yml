@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "hrk110 homepage"
+title: "hrk110"
 # email: your-email@example.com
 
 # Write an awesome description for your new site here. You can edit this
@@ -37,6 +37,7 @@ header_pages:
   - about.md
   - my_own_tips.md
   - useful_links.md
+  - tech_notes.md
   - posts.md
 
 # Exclude from processing.
