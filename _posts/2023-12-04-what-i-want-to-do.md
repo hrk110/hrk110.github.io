@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "私がやりたいこと" # title here
+title:  "やりたいこと" # title here
 date: 2023-12-04 00:00:00 +0900
 categories: "" # category here
 published: true
@@ -13,5 +13,8 @@ published: true
 - 難病その他の支援
 - 教育
   - 子供に親と学校の先生以外の大人を見せる活動
+- 表現活動 AI時代に負けないために趣味レベルだとしても考えてやっていく必要がある
+  - 音楽制作
+  - 演奏
 
 <!-- content here -->

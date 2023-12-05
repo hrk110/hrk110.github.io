@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "VSCode の設定" # title here
+date: 2023-12-04 00:00:00 +0900
+categories: "" # category here
+published: true
+---
+
+設定をいじりすぎて原型をとどめていない私の vscode の設定を紹介する。
+
+
+# スクリーンショット
+
+<!-- content here -->
