@@ -96,6 +96,10 @@ ref. [1440分の使い方](https://www.panrolling.com/books/ph/ph58.html)
 
 ## When I lose motivation or enthusiasm
 
+[TODO]
+
+<!--
+
 - CO_2 濃度のせいで頭が回らなくなっている
   - 根拠？
 - 自分が期待されていることを知る
@@ -103,4 +107,4 @@ ref. [1440分の使い方](https://www.panrolling.com/books/ph/ph58.html)
 - 思い切って休む
 
 
-
+-->

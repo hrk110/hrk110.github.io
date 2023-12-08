@@ -14,7 +14,7 @@ permalink: /useful_links/
 
 - [論文の読み方(speakerdeck)](https://speakerdeck.com/kaityo256/how-to-survey)
 
-## 博士課程進学に関して
+<!-- ## 博士課程進学に関して -->
 
 ## 学習教材
 
