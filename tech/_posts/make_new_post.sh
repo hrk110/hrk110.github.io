@@ -1,0 +1,1 @@
+../../_posts/make_new_post.sh
