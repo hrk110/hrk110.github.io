@@ -23,7 +23,7 @@ categories: "" # category here
 published: true
 ---
 
-# section
+## section
 
 <!-- content here -->
 EOF
